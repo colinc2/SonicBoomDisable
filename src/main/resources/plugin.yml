@@ -1,0 +1,6 @@
+name: SonicBoomDisable
+version: '${project.version}'
+main: me.colinconnolly.sonicboomdisable.SonicBoomDisable
+api-version: 1.19
+authors: [ Raikex ]
+description: Disables sonic boom attack from warden 
